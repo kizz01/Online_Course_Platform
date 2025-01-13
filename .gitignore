@@ -1,0 +1,25 @@
+# Ignore obj directory
+**/obj/
+
+# Ignore bin directory
+**/bin/
+
+# Visual Studio and Rider
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Configurations
+.config/
+
+# Visual Studio Code
+.vscode/
+
+# Properties
+Properties/PublishProfiles/
+Properties/ServiceDependencies/
+Properties/serviceDependencies.local.json.user
+
+# Migrations
+Data/Migrations
